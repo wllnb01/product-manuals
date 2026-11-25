@@ -13,7 +13,7 @@ platform and by any team member.
 ## Direct link
 
 ```
-https://cdn.jsdelivr.net/gh/jingyuxiao318-sketch/product-manuals@main/User-Manual-EN.pdf
+https://cdn.jsdelivr.net/gh/wllnb01/product-manuals@main/User-Manual-EN.pdf
 ```
 
 Paste this URL into the document / instructions manual field of a listing.
